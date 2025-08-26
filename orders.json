@@ -1,6 +1,6 @@
 {
   "G25779": {
-    "status": "Versandvorbereitung",
+    "status": "Auf dem Transportweg",
     "statusClass": "pending",
     "sender": "Thomas Kehl, Kirtaweg 8, 81829 München, Deutschland",
     "receiver": "Florian Hieber, Albrechtstraße 52, 12167 Berlin, Deutschland",
@@ -26,12 +26,12 @@
       }
     ],
     "orderDate": "22-08-2025",
-    "deliveryDate": "27-08-2025",
+    "deliveryDate": "27-08-2025, 11:30 Uhr",
     "pickup": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
+      "street": "Hans-Grade-Straße",
+      "postal_code": "04158",
+      "city": "Leipzig",
+      "country": "Deutschland",
       "lat": "",
       "lng": ""
     },
